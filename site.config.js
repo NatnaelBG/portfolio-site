@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Content`,
+      href: "https://0xnatnael.vercel.app/",
     },
   ],
   // blog setting (required)
